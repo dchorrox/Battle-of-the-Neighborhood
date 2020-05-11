@@ -20,9 +20,8 @@ solve or execute. Remember that data science problems always target an audience 
 stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about 
 your problem.
 
-**_The idea of this study is to help people planning to open a new restaurant in Toronto to chose the right location 
-by providing data about the income and population of each neighborhood as well as the competitors already present on 
-the same regions._**
+**This study will help prospective buisness owners open a shop in Toronto and chose the right location 
+based on income and population of each neighborhood, as well as competitors present in the region._**
 
 ## 2) Downloading and Prepping Data
 
@@ -31,8 +30,8 @@ the Foursquare location data to solve the problem or execute your idea. You can 
 combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, 
 with examples, of the data that you will be using, even if it is only Foursquare location data.
 
-**_To provide the stakeholders the necessary information I'll be combining Toronto's 2016 Census that contains Population, 
-Average income per Neighborhood with Toronot's Neighborhoods shapefile and Foursquare API to collect competitors on the 
+**_Stakeholders will be provided information combining Toronto's 2016 Census that contains Population, 
+Average income per Neighborhood with Toronoto's Neighborhood shapefile and Foursquare API to collect competitors on the 
 same neighborhoods._**
 
 **_Toronto's Census data is publicly available at this website: 
@@ -48,7 +47,7 @@ https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-ca
 Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis
 that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
 
-**_For this report I used a few different maps that could help a new investor to decide the best neighborhood to open a restaurant 
+**_For this report I wioll use a different maps to help investors  decide the best neighborhood to open a restaurant 
 in Toronto based on it's income, population and available competitors. In order to do that I've used the 2016 Census information 
 combined with choropleth maps to visually display the wealthier and more populational neighborhoods and Foursquare data to display 
 the current restaurants in each region._**
@@ -68,13 +67,11 @@ restaurants._**
 Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 
 **_When I first decided to create this study I was expecting to find clusters of restaurants in certain regions and the final result 
-didn't meet that expectation._**
+didn't meet that expectation. This might indicate that buisnesses are currently not created based on collected data._**
 
 
 ## 6) Conclusion
 
 Conclusion section where you conclude the report.
 
-**_This report may be helpful for someone planning on opening a restaurant in Toronto, by comparing the current offers and 
-neighborhoods profiles, however it may not cover all variables such as access to public transportation or even the restaurants 
-profiles, so it shall not be used as a single decidion making tool._**
+**_While this report would be helpful for someone planning on opening a restaurant in Toronto,it doesn't carry cultural nuances that enable competition to improve the overall product based on customer needs._**
